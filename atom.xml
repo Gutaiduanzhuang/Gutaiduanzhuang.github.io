@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>I&#39;m 顾俊浩 ， Nice to meet you !</title>
+  <title>顾俊浩的个人博客</title>
   
-  <subtitle>快乐星球</subtitle>
+  <subtitle>I am 顾俊浩 , nice to meet you !</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gutaiduanzhuang.github.io/"/>
