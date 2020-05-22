@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gutaiduanzhuang.github.io/"/>
-  <updated>2020-04-17T13:01:38.882Z</updated>
+  <updated>2020-05-22T07:34:28.738Z</updated>
   <id>https://gutaiduanzhuang.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何搭建HEXO博客</title>
+    <link href="https://gutaiduanzhuang.github.io/2020/05/22/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHEXO%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://gutaiduanzhuang.github.io/2020/05/22/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHEXO%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-05-22T07:15:59.000Z</published>
+    <updated>2020-05-22T07:34:28.738Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="如何搭建HEXO博客"><a href="#如何搭建HEXO博客" class="headerlink" title="如何搭建HEXO博客"></a>如何搭建HEXO博客</h1><h3 id="这是一篇示例文章，也是我在HEXO上写的第一篇文章"><a href="#这是一篇示例文章，也是我在HEXO上写的第一篇文章" class="headerlink" title="这是一篇示例文章，也是我在HEXO上写的第一篇文章"></a>这是一篇示例文章，也是我在HEXO上写的第一篇文章</h3><p>主要目的是熟悉markdown的语法（借着搭建博客教程的名号哈哈）</p><p>目录</p><ol><li>创建github个人仓库</li><li>安装git</li><li>安装nodejs</li><li>安装hexo</li><li>最终搭建</li></ol><p>想要了解具体细节，可以看我在知乎上的文章</p><p>如何搭建hexo个人博客 - 顾啦la的文章 - 知乎<br><a href="https://zhuanlan.zhihu.com/p/137497835" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/137497835</a></p><p>先到这儿吧，我发布试试。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;如何搭建HEXO博客&quot;&gt;&lt;a href=&quot;#如何搭建HEXO博客&quot; class=&quot;headerlink&quot; title=&quot;如何搭建HEXO博客&quot;&gt;&lt;/a&gt;如何搭建HEXO博客&lt;/h1&gt;&lt;h3 id=&quot;这是一篇示例文章，也是我在HEXO上写的第一篇文章&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
